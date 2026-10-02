@@ -3,8 +3,6 @@
 # 👋 Hi, I'm Chaima Aouchiche
 ---
 
-## 🧠 About Me
-
 🎓 I'm currently pursuing a Master's degree in Computer Science at Université Sorbonne Paris Nord.
 
 🤖 My main interests are Artificial Intelligence, Machine Learning and Data Science.
