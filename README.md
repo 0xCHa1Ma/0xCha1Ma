@@ -1,7 +1,6 @@
-<div align="center">
+<div">
 
 # 👋 Hi, I'm Chaima Aouchiche
----
 
 🎓 I'm currently pursuing a Master's degree in Computer Science at Université Sorbonne Paris Nord.
 
@@ -16,10 +15,6 @@
 - Backend Development
 
 🚀 I enjoy learning by building projects and turning ideas into practical applications.
-
----
-
-## 🛠️ Languages & Tools
 
 <div align="center">
 
