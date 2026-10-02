@@ -1,20 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Chaima Aouchiche
-
-### `0xCha1Ma`
-
-🎓 M1 Computer Science Student  
-🤖 Artificial Intelligence & Data Science  
-📊 Machine Learning • Data Analysis • XAI  
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCha1Ma)
-
-</div>
-
 ---
 
 ## 🧠 About Me
@@ -42,24 +28,9 @@ practical applications.
 
 <div align="center">
 
-### 💻 Programming
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js)](https://skillicons.dev)
-
-### 📊 Data & Databases
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,oracle)](https://skillicons.dev)
-
-### ⚡ Backend & Development
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,html,css,git,github)](https://skillicons.dev)
-
-### 🖥️ Systems
-
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,postgres,mysql,fastapi,flask,git,github,linux)](https://skillicons.dev)
 
 </div>
-
 ---
 
 ## 🤖 AI & Data
