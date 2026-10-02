@@ -5,13 +5,11 @@
 
 ## 🧠 About Me
 
-🎓 I'm currently pursuing a **Master's degree in Computer Science**
-at **Université Sorbonne Paris Nord**.
+🎓 I'm currently pursuing a Master's degree in Computer Science at Université Sorbonne Paris Nord.
 
-🤖 My main interests are **Artificial Intelligence, Machine Learning
-and Data Science**.
+🤖 My main interests are Artificial Intelligence, Machine Learning and Data Science.
 
-🔍 I'm particularly interested in:
+🔎 I'm particularly interested in:
 
 - Machine Learning & Deep Learning
 - Data Analysis & Data Mining
@@ -19,8 +17,7 @@ and Data Science**.
 - AIOps & Intelligent Systems
 - Backend Development
 
-🚀 I enjoy learning by building projects and turning ideas into
-practical applications.
+🚀 I enjoy learning by building projects and turning ideas into practical applications.
 
 ---
 
