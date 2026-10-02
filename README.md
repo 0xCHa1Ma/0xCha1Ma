@@ -50,16 +50,3 @@ Université Sorbonne Paris Nord — Institut Galilée
 
 🎓 **Engineering Program in Computer Science**  
 ESTIN, Algeria — Artificial Intelligence & Data Science
-
----
-
-## 📈 Currently Learning
-
-```text
-Machine Learning
-      ↓
-Data Science
-      ↓
-Explainable AI
-      ↓
-Intelligent Systems
