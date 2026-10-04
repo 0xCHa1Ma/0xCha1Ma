@@ -11,7 +11,6 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
 
 </div>
-
 🔎 I'm particularly interested in:
 
 - Machine Learning & Deep Learning
@@ -22,11 +21,6 @@
 
 🚀 I enjoy learning by building projects and turning ideas into practical applications.
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
-
-</div>
 
 ---
 
