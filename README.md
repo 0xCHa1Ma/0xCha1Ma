@@ -20,9 +20,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFoYXV4aHdtYjdmaXd2ZGhkbTZnZTFlZHV1c2prZGVydzdxaDNhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Gc0z3LjGFPKHB32pE/giphy.gif" width="300">
 
-</div>
----
-
+</div
 ## 🤖 AI & Data
 
 <div align="center">
